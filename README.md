@@ -42,23 +42,6 @@
 
 <tr>
 <td>
-
-### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
-
-</td></tr>
-
-<tr><td>
-
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
@@ -138,18 +121,9 @@ Mac                      1 hr 31 mins        ██░░░░░░░░░�
 mindmap
   root((linkingcode))
     编程
-      Web开发
-      网络爬虫
-      人工智能
-    摄影
-      风光
-    旅行
-      广州
-      苏州
-      南京
-      滁州
-      合肥
-      寿县
+       C/C++
+       Python
+       Java
     阅读
       历史故事
       政治思考
