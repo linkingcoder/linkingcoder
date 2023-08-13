@@ -36,7 +36,7 @@
 <p>&emsp;&emsp;Hello,my name is linkingcoder,studying in Beijing University of Posts and Telecommunications </p>
 <p>&emsp;&emsp;热爱编程、读书、运动。</p>
 <p style="font-family:"宋体"">&emsp;&emsp;和光同尘，与时舒卷，戢鳞潜翼，思属风云</p>
-<p><strong>&emsp;&emsp;</strong></p>
+<p><strong>&emsp;&emsp;The greatest test of courage on earth is to bear defeat without losing heart.</strong></p>
 
 </td></tr>
 
