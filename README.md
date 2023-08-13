@@ -33,9 +33,9 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/linkingcoder/linkingcoder/assets/images/steven.png" />
 
-<p>&emsp;&emsp;Hello,my name is linkingcoder，</p>
+<p>&emsp;&emsp;Hello,my name is linkingcoder,studying in Beijing University of Posts and Telecommunications </p>
 <p>&emsp;&emsp;热爱编程、读书、运动。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
