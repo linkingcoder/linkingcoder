@@ -58,4 +58,4 @@
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=linkingcoder&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
-<img src="https://metrics.lecoq.io/linkingcoder?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FHong_Kong"/>
+<img align="" height="200px" src="https://metrics.lecoq.io/linkingcoder?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FHong_Kong"/>
