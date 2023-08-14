@@ -42,6 +42,21 @@
 
 <tr>
 <td>
+## What did I know
+
+### Currently majoring in:
+- Java
+- HTML & CSS
+
+
+### Not very major, but at least know a lot:
+- Python
+- C/C++
+- Go 
+
+### Not major, but they seem interesting:
+- JavaScript/TypeScript
+
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=linkingcoder&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
