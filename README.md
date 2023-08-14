@@ -41,8 +41,6 @@
 </td></tr>
 <tr>
 <td>
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=linkingcoder&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true&theme=transparent" alt="HikariLan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linkingcoder&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8&hide=HTML,CSS" /> |
-| ------------- | ------------- |
 ## What did I know
 
 ### Currently majoring in:
