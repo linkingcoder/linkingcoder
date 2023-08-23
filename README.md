@@ -55,6 +55,16 @@
 
 ### Not major, but they seem interesting:
 - JavaScript/TypeScript
+## songs that I like listening to:
+<ol>
+<li href="https://youtu.be/IOXoAvF6r_A">岁月无声</li>
+<li>长城</li>
+<li>大地</li>
+<li></li>
+</ol>
+
+
+
 ## Contact Me
 - Email(Personal): 2024590850@qq.com
 - Tencent QQ: 2024590850  
