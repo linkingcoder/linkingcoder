@@ -59,7 +59,7 @@
 <ol>
 <li><a href="https://youtu.be/QEOCahGzR08">岁月无声<a></li>
 <li><a href="https://youtu.be/IOXoAvF6r_A">长城</a></li>
-<li><a href="https://youtu.be/D80uRnUYAQU">大地</a>a></li>
+<li><a href="https://youtu.be/D80uRnUYAQU">大地</a></li>
 <li><a href="https://youtu.be/av1-_SjPb2E">皇后大道东</a></li>
 <li><a href="https://youtu.be/Jcr1zI0LiB4">爱人同志</a></li>
 <li><a href="https://www.bilibili.com/video/BV17h411u7sb/?share_source=copy_web&vd_source=abe038c2e5cf8a01ee0e25d3b19e559b">アイドル(Idol)</a></li>
