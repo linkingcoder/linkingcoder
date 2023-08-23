@@ -57,8 +57,8 @@
 - JavaScript/TypeScript
 ## songs that I like listening to:
 <ol>
-<li href="https://youtu.be/IOXoAvF6r_A">岁月无声</li>
-<li>长城</li>
+<li>岁月无声</li>
+<li><a href="https://youtu.be/IOXoAvF6r_A">长城</a></li>
 <li>大地</li>
 <li></li>
 </ol>
