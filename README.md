@@ -35,9 +35,9 @@
 
 <p>&emsp;&emsp;Hello,my name is linkingcoder,studying in Beijing University of Posts and Telecommunications </p>
 <p>&emsp;&emsp;热爱编程、读书、运动。</p>
-<p style="font-family:"宋体"">&emsp;&emsp;和光同尘，与时舒卷，戢鳞潜翼，思属风云</p>
-<p><strong>&emsp;&emsp;The greatest test of courage on earth is to bear defeat without losing heart.</strong></p>
-
+<p><strong>&emsp;&emsp;一个人的命运，当然要靠自我奋斗，但是也要考虑到历史的行程。</strong></p>
+<p>马渡沙头苜蓿香，片云片雨过潇湘。</p>
+<p>东风吹醒英雄梦，不是咸阳是洛阳。</p>
 </td></tr>
 <tr>
 <td>
@@ -46,6 +46,8 @@
 ### Currently majoring in:
 - Java
 - HTML & CSS
+- vue
+- Mysql
 
 
 ### Not very major, but at least know a lot:
