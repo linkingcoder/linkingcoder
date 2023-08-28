@@ -36,8 +36,9 @@
 <p>&emsp;&emsp;Hello,my name is linkingcoder,studying in Beijing University of Posts and Telecommunications </p>
 <p>&emsp;&emsp;热爱编程、读书、运动。</p>
 <p><strong>&emsp;&emsp;一个人的命运，当然要靠自我奋斗，但是也要考虑到历史的行程。</strong></p>
-<p>马渡沙头苜蓿香，片云片雨过潇湘。</p>
-<p>东风吹醒英雄梦，不是咸阳是洛阳。</p>
+<h2>小诗言志</h2>
+<p>&emsp;&emsp;马渡沙头苜蓿香，片云片雨过潇湘。</p>
+<p>&emsp;&emsp;东风吹醒英雄梦，不是咸阳是洛阳。</p>
 </td></tr>
 <tr>
 <td>
