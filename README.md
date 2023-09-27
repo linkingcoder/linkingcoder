@@ -50,7 +50,7 @@
 - HTML & CSS
 - vue
 - Mysql
-
+- jdbc
 
 ### Not very major, but at least know a lot:
 - Python
