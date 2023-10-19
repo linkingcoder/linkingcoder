@@ -51,14 +51,19 @@
 - vue
 - Mysql
 - jdbc
+- C++
+- JavaWeb
+- Spring
+  
 
 ### Not very major, but at least know a lot:
 - Python
-- C/C++
+- C
 - Go 
 
 ### Not major, but they seem interesting:
 - JavaScript/TypeScript
+- Rust
 ## songs that I like listening to:
 <ol>
 <li><a href="https://youtu.be/QEOCahGzR08">岁月无声<a></li>
